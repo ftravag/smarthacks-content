@@ -1,0 +1,161 @@
+[
+  {
+    "title": "Shinier dishes & cutlery",
+    "category": "Cleaning",
+    "description": "Crumple aluminium foil into a ball and place it in the dishwasher cutlery basket to help shiny metal items look cleaner.",
+    "type": "dishwasher",
+    "image": "assets/images/dishwasher_foil.jpg",
+    "rating": 4.8,
+    "tips": [
+      "Use a ball about the size of a golf ball for best results.",
+      "Replace the foil ball every few washes for maximum effect.",
+      "Works best with stainless steel cutlery."
+    ]
+  },
+  {
+    "title": "Stop pots from boiling over",
+    "category": "Kitchen",
+    "description": "Place a wooden spoon across the top of a pot to reduce messy boil-overs.",
+    "type": "pot",
+    "image": "assets/images/pot_spoon.jpg",
+    "rating": 4.7,
+    "tips": [
+      "Any wooden spoon works \u2014 the longer the better.",
+      "Also works with a wooden chopstick laid across the rim.",
+      "The wood absorbs heat and breaks surface tension."
+    ]
+  },
+  {
+    "title": "Protect car doors",
+    "category": "Car",
+    "description": "Cut a pool noodle and attach it to the garage wall to protect your car doors.",
+    "type": "noodle",
+    "image": "assets/images/pool_noodle_car.jpg",
+    "rating": 4.6,
+    "tips": [
+      "Use strong double-sided tape or screws to mount securely.",
+      "Cut the noodle lengthwise for a flatter profile on the wall.",
+      "Choose a bright colour that is easy to spot in low garage lighting."
+    ]
+  },
+  {
+    "title": "Charge faster",
+    "category": "Tech",
+    "description": "Put your phone on airplane mode while charging to reduce background activity.",
+    "type": "phone",
+    "image": "assets/images/phone_charging.jpg",
+    "rating": 4.5,
+    "tips": [
+      "Airplane mode stops all background app refresh activity.",
+      "Combined with a quality cable, charging can be 30% faster.",
+      "Turn off WiFi and Bluetooth too for maximum speed."
+    ]
+  },
+  {
+    "title": "Freeze grapes",
+    "category": "Kitchen",
+    "description": "Freeze grapes and use them instead of ice cubes in drinks.",
+    "type": "grapes",
+    "image": "assets/images/grapes.jpg",
+    "rating": 4.7,
+    "tips": [
+      "Freeze in a single layer on a tray before bagging.",
+      "Red and green grapes both work great.",
+      "They also make a healthy frozen snack on their own."
+    ]
+  },
+  {
+    "title": "Sharpen scissors",
+    "category": "DIY",
+    "description": "Cut through a few folded layers of foil to help sharpen dull scissors.",
+    "type": "scissors",
+    "image": "assets/images/scissors_foil.jpg",
+    "rating": 4.5,
+    "tips": [
+      "Fold 6 to 8 layers of foil for best sharpening effect.",
+      "Cut through the stack 10 to 15 times.",
+      "Works on kitchen shears and fabric scissors too."
+    ]
+  },
+  {
+    "title": "Remove water rings from wood",
+    "category": "Cleaning",
+    "description": "Use a hairdryer on low heat to remove white water ring marks from wooden furniture.",
+    "type": "dishwasher",
+    "image": "assets/images/water_ring.jpg",
+    "rating": 4.4,
+    "tips": [
+      "Hold the dryer about 5cm from the surface.",
+      "Move it in slow circles so you do not scorch the wood.",
+      "Follow up with a little furniture polish to restore shine."
+    ]
+  },
+  {
+    "title": "Keep bananas fresh longer",
+    "category": "Kitchen",
+    "description": "Wrap the crown of a banana bunch in cling wrap to slow the ripening process.",
+    "type": "pot",
+    "image": "assets/images/bananas_fresh.jpg",
+    "rating": 4.3,
+    "tips": [
+      "Separate bananas from the bunch to slow ripening even more.",
+      "Store away from other fruits \u2014 bananas emit ethylene gas.",
+      "Already ripe? Peel and freeze them for smoothies."
+    ]
+  },
+  {
+    "title": "Fix a stripped screw hole",
+    "category": "DIY",
+    "description": "Stuff a few toothpicks with wood glue into a stripped screw hole, let dry, then re-drive the screw.",
+    "type": "scissors",
+    "image": "assets/images/stripped_screw.jpg",
+    "rating": 4.6,
+    "tips": [
+      "Break the toothpicks off flush once the glue dries.",
+      "Use PVA wood glue for the best bond.",
+      "Works on door hinges, cabinet handles and furniture."
+    ],
+    "alignment": "center"
+  },
+  {
+    "title": "Stop shoes from squeaking",
+    "category": "DIY",
+    "description": "Sprinkle baby powder under the inner sole of squeaky shoes to reduce friction noise.",
+    "type": "scissors",
+    "image": "assets/images/squeaking_shoes.jpg",
+    "rating": 4.2,
+    "tips": [
+      "Remove the inner sole first for best results.",
+      "Cornstarch works just as well as baby powder.",
+      "Reapply every few weeks as it wears off."
+    ],
+    "alignment": "topCenter"
+  },
+  {
+    "title": "Keep car windscreen frost-free",
+    "category": "Car",
+    "description": "Mix 3 parts vinegar with 1 part water and spray on your windscreen the night before to prevent frost.",
+    "type": "noodle",
+    "image": "assets/images/frost_free.jpg",
+    "rating": 4.5,
+    "tips": [
+      "Apply in the evening before frost is expected.",
+      "Also works on side mirrors.",
+      "The vinegar smell disappears once it dries."
+    ],
+    "alignment": "bottomCenter"
+  },
+  {
+    "title": "Unclog a drain naturally",
+    "category": "Cleaning",
+    "description": "Pour baking soda followed by white vinegar down a slow drain, wait 15 minutes, then flush with hot water.",
+    "type": "dishwasher",
+    "image": "assets/images/unclog_drain.jpg",
+    "rating": 4.4,
+    "tips": [
+      "Use half a cup of baking soda and half a cup of vinegar.",
+      "Cover the drain after adding vinegar to force the fizz downward.",
+      "Repeat monthly to keep drains clear."
+    ]
+  }
+]

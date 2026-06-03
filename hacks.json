@@ -171,4 +171,17 @@
       "Rub any leftover residue with cooking oil or white vinegar."
     ]
   }
+  {
+    "title": "Bread Clip Cable Labels",
+    "category": "DIY",
+    "description": "Use old bread clips to label your cables so you never mix them up again.",
+    "type": "scissors",
+    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/bread_clip.jpg",
+    "rating": 4.5,
+    "tips": [
+      "Write the cable name on the bread clip with a permanent marker.",
+      "Clip it onto the cable near the plug end for easy identification.",
+      "Use different coloured bread clips to colour-code by room or device."
+    ]
+  }
 ]

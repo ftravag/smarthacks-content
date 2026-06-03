@@ -121,7 +121,7 @@
     "title": "Stop shoes from squeaking",
     "category": "DIY",
     "description": "Sprinkle baby powder under the inner sole of squeaky shoes to reduce friction noise.",
-    "type": "scissors",
+    "type": "pot",
     "image": "assets/images/squeaking_shoes.jpg",
     "rating": 4.2,
     "tips": [
@@ -129,7 +129,7 @@
       "Cornstarch works just as well as baby powder.",
       "Reapply every few weeks as it wears off."
     ],
-    "alignment": "topCenter"
+    "alignment": "center"
   },
   {
     "title": "Keep car windscreen frost-free",

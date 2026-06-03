@@ -122,7 +122,7 @@
     "category": "DIY",
     "description": "Sprinkle baby powder under the inner sole of squeaky shoes to reduce friction noise.",
     "type": "scissors",
-    "image": "assets/images/squeaking_shoes.jpg",
+    "image": "assets/images/squeaky_shoes.jpg",
     "rating": 4.2,
     "tips": [
       "Remove the inner sole first for best results.",
@@ -156,6 +156,19 @@
       "Use half a cup of baking soda and half a cup of vinegar.",
       "Cover the drain after adding vinegar to force the fizz downward.",
       "Repeat monthly to keep drains clear."
+    ]
+  },
+  {
+    "title": "Remove sticky labels easily",
+    "category": "DIY",
+    "description": "Use a hairdryer on medium heat for 20-30 seconds to soften the adhesive, then peel the label off cleanly.",
+    "type": "scissors",
+    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/remove_labels.jpg",
+    "rating": 4.6,
+    "tips": [
+      "Hold the hairdryer about 5cm from the label.",
+      "Peel slowly from one corner to avoid tearing.",
+      "Rub any leftover residue with cooking oil or white vinegar."
     ]
   }
 ]

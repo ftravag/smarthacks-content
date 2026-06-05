@@ -222,7 +222,20 @@
       "Put lemon slices in a bowl of water.",
       "Microwave for 3 minutes.",
       "Let steam sit for 2 minutes.",
-      "Wipe away."  
+      "Wipe away."
+    ]
+  },
+  {
+    "title": "Use a Straw to Remove Strawberry Tops",
+    "category": "Kitchen",
+    "description": "Less waste.",
+    "type": "pot",
+    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/strawberry_top.jpg",
+    "rating": 4.4,
+    "tips": [
+      "Push a straw through bottom of strawberry.",
+      "Stem pops straight out.",
+      "Faster than using a knife.", 
     ]
   } 
 ] 

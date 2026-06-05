@@ -197,5 +197,18 @@
       "Tea bags absorb moisture and odours.",
       "Shoes smell fresher."
     ]
+  },
+  {
+    "title": "Use a Peg to Hold a Nail",
+    "category": "DIY",
+    "description": "Saves your fingers from getting hit.",
+    "type": "scissors",
+    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/hold_nail.jpg",
+    "rating": 4.2,
+    "tips": [
+    "Clip the nail with a clothes peg.",
+    "Hold the peg instead of the nail.",
+    "Hammer safely."
+   ]
   } 
 ]

@@ -108,7 +108,7 @@
     "category": "DIY",
     "description": "Stuff a few toothpicks with wood glue into a stripped screw hole, let dry, then re-drive the screw.",
     "type": "scissors",
-    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/stripped_screw.jpg",
+    "image": "assets/images/stripped_screw.jpg",
     "rating": 4.6,
     "tips": [
       "Break the toothpicks off flush once the glue dries.",
@@ -122,7 +122,7 @@
     "category": "DIY",
     "description": "Sprinkle baby powder under the inner sole of squeaky shoes to reduce friction noise.",
     "type": "scissors",
-    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/squeaking_shoes.jpg",
+    "image": "assets/images/squeaking_shoes.jpg",
     "rating": 4.2,
     "tips": [
       "Remove the inner sole first for best results.",
@@ -135,7 +135,7 @@
     "category": "Car",
     "description": "Mix 3 parts vinegar with 1 part water and spray on your windscreen the night before to prevent frost.",
     "type": "noodle",
-    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/frost_windscreen.jpg",
+    "image": "assets/images/frost_windscreen.jpg",
     "rating": 4.0,
     "tips": [
       "Apply in the evening before frost is expected.",
@@ -148,7 +148,7 @@
     "category": "Cleaning",
     "description": "Pour baking soda followed by white vinegar down a slow drain, wait 15 minutes, then flush with hot water.",
     "type": "dishwasher",
-    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/unclog_drain.jpg",
+    "image": "assets/images/unclog_drain.jpg",
     "rating": 4.4,
     "tips": [
       "Use half a cup of baking soda and half a cup of vinegar.",

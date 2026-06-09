@@ -122,7 +122,7 @@
     "category": "DIY",
     "description": "Sprinkle baby powder under the inner sole of squeaky shoes to reduce friction noise.",
     "type": "pot",
-    "image": "assets/images/squeaking_shoes.jpg",
+    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/squeaking_shoes_clip.jpg",
     "rating": 4.2,
     "tips": [
       "Remove the inner sole first for best results.",

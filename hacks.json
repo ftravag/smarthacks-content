@@ -150,7 +150,7 @@
     "category": "Cleaning",
     "description": "Pour baking soda followed by white vinegar down a slow drain, wait 15 minutes, then flush with hot water.",
     "type": "dishwasher",
-    "image": "assets/images/unclog_drain.jpg",
+    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/unclog_drain.jpg",
     "rating": 4.4,
     "tips": [
       "Use half a cup of baking soda and half a cup of vinegar.",

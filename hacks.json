@@ -129,7 +129,6 @@
       "Cornstarch works just as well as baby powder.",
       "Reapply every few weeks as it wears off."
     ],
-    "alignment": "center"
   },
   {
     "title": "Keep car windscreen frost-free",
@@ -137,13 +136,12 @@
     "description": "Mix 3 parts vinegar with 1 part water and spray on your windscreen the night before to prevent frost.",
     "type": "noodle",
     "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/frost_windowscreen.jpg",
-    "rating": 4.5,
+    "rating": 4.0,
     "tips": [
       "Apply in the evening before frost is expected.",
       "Also works on side mirrors.",
       "The vinegar smell disappears once it dries."
     ],
-    "alignment": "bottomCenter"
   },
   {
     "title": "Unclog a drain naturally",

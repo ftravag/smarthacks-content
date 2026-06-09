@@ -108,7 +108,7 @@
     "category": "DIY",
     "description": "Stuff a few toothpicks with wood glue into a stripped screw hole, let dry, then re-drive the screw.",
     "type": "scissors",
-    "image": "assets/images/stripped_screw.jpg",
+    "image": "https://raw.githubusercontent.com/ftravag/smarthacks-content/main/images/stripped_screw.jpg",
     "rating": 4.6,
     "tips": [
       "Break the toothpicks off flush once the glue dries.",
